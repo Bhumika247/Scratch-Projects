@@ -5,4 +5,4 @@ Since it is a block-based programming language with a visual interface and becau
 algorithms work in a program. From a programming perspective, I think it creates a foundation on how object-oriented programming work at a very conceptual level.
 This collection contains 7 projects that I demonstrate in my "Advanced Scratch" class at Fusion Education Center, New York.
 
-### Go to the Wiki Page to view the projects!
+### Go to the Wiki Page to check out the projects!
